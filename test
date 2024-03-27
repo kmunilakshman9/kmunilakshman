@@ -1,0 +1,11 @@
+hello this is new repositry file 
+Benefits
+Azure Boost contains several features that can improve the performance and security of your virtual machines. These features are available on select Azure Boost compatible virtual machine sizes.
+
+Networking: Azure Boost includes a suite of software and hardware networking systems that provide a significant boost to both network performance (Up to 200-Gbps network bandwidth) and network security. Azure Boost compatible virtual machine hosts contain the new Microsoft Azure Network Adapter (MANA). Learn more about Azure Boost networking.
+
+Storage: Storage operations are offloaded to the Azure Boost FPGA. This offload provides leading efficiency and performance while improving security, reducing jitter, and improving latency for workloads. Local storage now runs at up to 17.3-GBps and 3.8 million IOPS with remote storage up to 12.5-GBps throughput and 650 K IOPS. Learn more about Azure Boost Storage.
+
+Security: Azure Boost uses Cerberus as an independent HW Root of Trust to achieve NIST 800-193 certification. Customer workloads can't run on Azure Boost powered architecture unless the firmware and software running on the system is trusted. Learn more about Azure Boost Security.
+
+Performance: With Azure Boost offloading storage and networking, CPU resources are freed up for increased virtualization performance. Resources that would normally be used for these essential background tasks are now available to the guest VM. Learn more about Azure Boost Performance.
